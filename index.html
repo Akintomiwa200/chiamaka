@@ -11,36 +11,37 @@
 </head>
 
 <body>
-    <nav id="desktop-nav">
-        <div class="logo">Deborah</div>
+   <nav id="desktop-nav">
+    <div class="logo">Deborah</div>
+    <div>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </div>
+</nav>
 
-        <div>
-            <ul class="nav-links">
+<nav id="hamburger-nav">
+    <div class="logo">Deborah</div>
+    <div class="hamburger-menu" onclick="toggleMenu()">
+        <div class="hamburger-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="menu-links">
+            <ul>
                 <li><a href="#about">About</a></li>
                 <li><a href="#experience">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <!-- <li><a href="#blogs">Blogs</a></li> -->
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
-    </nav>
-    <nav id="hamburger-nav">
-        <div class="logo">Deborah</div>
-        <div class="hamburger-menu">
-            <div class="hamburger-icon">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-            <div class="menu-links">
-                <li><a href="#about">About</a></li>
-                <li><a href="#experience">Skills</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <!-- <li><a href="#blogs">Blogs</a></li> -->
-                <li><a href="#contact">Contact</a></li>
-            </div>
-        </div>
-    </nav>
+    </div>
+</nav>
+
     <section id="profile">
         <div class="section__pic-container">
             <img data-lazyloaded="1" decoding="async" id="profile1" src="./assets/chiamaka.jpg"
