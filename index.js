@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const projects = {
         1: {
             title: "AI Video and Thumbnail Generator App",
-            description: "An AI video and thumbnail generated through text. Our PRODUCT VISION is to empower creators of all skill levels to effortlessly produce engaging video content and eye-catching thumbnails, maximizing reach and impact.",
+            description: "An AI video and thumbnail generated through text. Our PRODUCT VISION is to empower creators of all skill levels to effortlessly produce engaging video content and eye-catching thumbnails, maximizing reach and impact. <br/> Proramming language - Python",
             links: {
                 "Market Intelligence Report And Business Model": "https://docs.google.com/document/d/11ZNIrSWouf4j4Nkz2nOmyJ5aAZS_rrJiPg15HvTYQgQ/edit?usp=drivesdk",
                 "PRD Document": "https://docs.google.com/document/d/13H3yEuojItT-HVAiPhLIbSuQSc9MwhELj9fDMa1qpF0/edit?usp=drivesdk",
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         2: {
             title: "A Community Feature in version 2.0 of a Meal Pal App",
-            description: "Developed an existing meal pal app which aims to connect people who wants to share meals, cooking duties, and socialize over food.",
+            description: "Developed an existing meal pal app which aims to connect people who wants to share meals, cooking duties, and socialize over food. <br/> Proramming language - Api",
             links: {
                 "Medium": "https://medium.com/@chiamakaokereke93/meal-pal-app-a-community-forum-case-study-4f1728d2276a",
               
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         3: {
             title: "Study or Work Partner Mobile Application",
-            description: "A study or work partner app that connects individuals who want to collaborate, stay motivated, and achieve their goals together.",
+            description: "A study or work partner app that connects individuals who want to collaborate, stay motivated, and achieve their goals together. ",
             links: {
                 "Medium": "https://medium.com/@chiamakaokereke93/product-management-a-case-study-on-study-or-work-partner-mobile-application-f61b0fb80109",
                 
