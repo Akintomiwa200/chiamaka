@@ -30,16 +30,16 @@ document.addEventListener('DOMContentLoaded', function () {
             title: "A Community Feature in version 2.0 of a Meal Pal App",
             description: "Developed an existing meal pal app which aims to connect people who wants to share meals, cooking duties, and socialize over food.",
             links: {
-                "Github": "https://github.com/nikhilkamble02/",
-                "Live Demo": "https://github.com"
+                "Medium": "https://medium.com/@chiamakaokereke93/meal-pal-app-a-community-forum-case-study-4f1728d2276a",
+              
             }
         },
         3: {
             title: "Study or Work Partner Mobile Application",
             description: "A study or work partner app that connects individuals who want to collaborate, stay motivated, and achieve their goals together.",
             links: {
-                "Github": "https://github.com/nikhilkamble02/",
-                "Live Demo": "https://github.com"
+                "Medium": "https://medium.com/@chiamakaokereke93/product-management-a-case-study-on-study-or-work-partner-mobile-application-f61b0fb80109",
+                
             }
         }
     };
