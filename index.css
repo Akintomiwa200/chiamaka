@@ -401,8 +401,8 @@ article p {
 #modalLinks > a{
     border: 1px solid black;
     padding: 5px 10px;
-    margin: 0.5em;
-    border-radius: 50%;
+    margin: 1em 0.5em;
+    border-radius: 5px;
 }
 
 #modalLinks > a:hover{
