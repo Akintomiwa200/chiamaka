@@ -595,10 +595,12 @@ footer p {
     .menu-links.open {
         display: block;
     }
-    #contact,
-    footer {
+    #contact {
         height: 40vh;
     }
+    #footer, footer{
+        height :70vh;
+        }
 
     #profile {
         height: 83vh;
