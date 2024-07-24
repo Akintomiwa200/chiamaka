@@ -398,7 +398,7 @@ article p {
     font-size: 28px;
     font-weight: bold;
 }
-#modalLinks > links{
+#modalLinks > a{
     border: 1px solid black;
     padding: 5px 10px;
     margin: 0.5em;
