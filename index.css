@@ -402,7 +402,16 @@ article p {
     border: 1px solid black;
     padding: 5px 10px;
     margin: 0.5em;
+    border-radius: 50%;
 }
+
+#modalLinks > a:hover{
+    border: 1px solid black;
+    padding: 5px 10px;
+    margin: 0.5em;
+    border-radius: 50%;
+}
+
 
 .close:hover,
 .close:focus {
