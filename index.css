@@ -594,7 +594,12 @@ footer p {
         height: 83vh;
         margin-bottom: 0;
     }
-
+#profile1 {
+    border-radius: 20%;
+    width: 14em;
+    height: 12em;
+    border: 2px solid grey;
+}
     article {
         font-size: 1rem;
     }
