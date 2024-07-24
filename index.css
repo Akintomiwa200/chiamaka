@@ -714,5 +714,8 @@ footer p {
     #projects {
         margin-bottom: 1rem;
     }
+    .go{
+        height: 30vh;
+    }
 
 }
