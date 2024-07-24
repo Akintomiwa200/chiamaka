@@ -516,7 +516,7 @@ footer p {
         margin-bottom: 20rem;
     }
 
-    .fa-brands {
+    .fa-brands, .fa-solid, .regular {
         color: black;
         font-size: 2em;
     }
