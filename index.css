@@ -636,6 +636,17 @@ footer p {
     #footer, footer{
         height :70vh;
         }
+#modalLinks > a{
+    border: 1px solid black;
+    padding: 5px 10px;
+    margin: 1em 0.5em;
+    border-radius: 5px;
+}
+
+#modalLinks > a:hover{
+   background:black;
+    color: white;
+}
 
     #profile {
         height: 83vh;
