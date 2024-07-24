@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const projects = {
         1: {
-            title: "AI Video and Thumbnail Generator App",
+            title: "AI Video and Thumbnail Generator ticket",
             description: "An AI video and thumbnail generated through text. Our PRODUCT VISION is to empower creators of all skill levels to effortlessly produce engaging video content and eye-catching thumbnails, maximizing reach and impact. <br/> Proramming language - Python",
             links: {
                 "Market Intelligence Report And Business Model": "https://docs.google.com/document/d/11ZNIrSWouf4j4Nkz2nOmyJ5aAZS_rrJiPg15HvTYQgQ/edit?usp=drivesdk",
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         },
         3: {
-            title: "Study or Work Partner Mobile Application",
+            title: "Study or Work Partner Application",
             description: "A study or work partner app that connects individuals who want to collaborate, stay motivated, and achieve their goals together. ",
             links: {
                 "Medium": "https://medium.com/@chiamakaokereke93/product-management-a-case-study-on-study-or-work-partner-mobile-application-f61b0fb80109",
